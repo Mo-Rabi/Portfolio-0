@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Mostafa Rabea",
+    "occupation": "Aspiring ReactJS Developer && Freelancer ",
+    "description": "Full Stack React Developer by Day, Teacher && Freelancer by Night. #ownReact",
+    "image": "IG_Mostafa.jpg",
+    "bio": "My name is Mostafa, I'm a Full Stack ReactJS Developer. Currently I'm working at upWork while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "mostafa.rapi3@gmail.com",
+    "phone": "+20 155 202 3015",
+    "address": {
+      "street": "Repuplic Street",
+      "city": "Cairo",
+      "state": "Egypt",
+      "zip": "31623"
+    },
+    "website": "https://mostafarabea.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1k5BDBDV7ec6uzFMVHyKQjvSiZA3ZQbL-/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mostafa.arabea/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mostafa-rabea/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aborabeamostafa/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Mostafa-Rabea",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Udacity",
+        "degree": "Nanodegree in Full-stack web development",
+        "graduated": "August 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "upWork",
+        "title": "Front-end web developer",
+        "years": "August 2020 - Present",
+        "description": "Building a variety of responsive websites"
+      },
+      {
+        "company": "Khamsat freelance",
+        "title": "Front-end web developer",
+        "years": "August 2020 - Present",
+        "description": "Building responsive websites"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Sass",
+        "level": "30%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "30%"
+      },
+      {
+        "name": "HTML5",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mostafa asks a lot of questions to make sure he got the right picture before carrying on with the project, sparing me and himself a lot of time && effort for adjustments.",
+        "user": "Alice Atwood "
+      },
+      {
+        "text": "That Mostafa Rabea must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
